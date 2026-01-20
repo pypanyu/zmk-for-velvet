@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: velvet}
 layers:
   Qwery:
-  - {t: '`', h: '~', s: '~'}
+  - {t: Esc, h: '~'}
   - Q
   - W
   - E
